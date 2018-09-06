@@ -18,11 +18,12 @@
   },
   "homepage": "https://github.com/TodoBackend/todo-backend-client",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-bowercopy": "^1.2.0",
-    "grunt-contrib-clean": "^0.6.0"
+    "grunt": "^1.0.3",
+    "grunt-bowercopy": "^1.2.4",
+    "grunt-contrib-clean": "^1.1.0"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.16.3",
+    "minimatch": "^3.0.4"
   }
 }
